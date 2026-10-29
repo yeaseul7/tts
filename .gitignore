@@ -1,0 +1,9 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Local preview artifacts
+editor-preview.png
+.DS_Store
